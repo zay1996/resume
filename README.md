@@ -11,3 +11,5 @@
 *Doctor of Philosophy in Geography*\
 [Graduate School of Geography, Clark University](https://www.clarku.edu/departments/geography/), expected 2025
 
+## Research Interests 
+Land change detection, Time-series remote sensing, GIS, Landscape ecology
