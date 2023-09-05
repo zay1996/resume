@@ -1,5 +1,6 @@
 # Aiyin Zhang
-![Alt text](image.png)
+<img src="image.png" alt="drawing" width="200"/>
+
 ## Education
 
 *Bachelor of Science in Geographic Information Systems*\
